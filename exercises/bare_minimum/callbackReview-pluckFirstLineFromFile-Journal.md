@@ -12,7 +12,9 @@ var pluckFirstLineFromFile = function (filePath) {
 QUESTIONS: What is filepath denote?? Maybe a url like path to a file in a directory, If that is true, it is a string. Going with that.
 
 input: a string
-
+output: a string
+sideEffects: none
+constraints: 
 
 ### Step 2: Justification
 <!-- record visualization by uploading a photo of your whiteboard to this folder -->
